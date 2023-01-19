@@ -1,4 +1,4 @@
-module github.com/Dreamacro/clash
+module github.com/RealLanta/clash
 
 go 1.19
 
